@@ -255,12 +255,4 @@ This project is licensed under the MIT License.
 - Urban traffic management research
 - IoT integration frameworks
 
-## 📞 Support
-
-For support and questions:
-- Create an issue in this repository
-- Contact the development team
-
----
-
 **Note**: This system is designed for urban traffic management and requires a Traffic simulator to simulate an IoT device for full functionality.
